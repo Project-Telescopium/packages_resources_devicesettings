@@ -223,4 +223,12 @@
     <string name="refresh_extreme">极致(120Hz)</string>
     <string name="powershare_enable_title">电池共享</string>
     <string name="powershare_enable_summary">将其他设备放在你的手机背面为其充电</string>
+    <string name="haptic_title">振动反馈</string>
+    <string name="haptic_warning">可能使硬件损坏，使用风险自负</string>
+    <string name="haptic_summary">自定义振动强度</string>
+    <string name="haptic_level_title">等级</string>
+    <string name="haptic_level_summary">振动强度</string>
+    <string name="haptic_level_summary_incompatible">不支持的特性</string>
+    <string name="display_settings_title">高级显示设置</string>
+    <string name="display_settings_summary">启用或禁用高级功能</string>
 </resources>
